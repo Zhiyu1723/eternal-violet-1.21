@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "eternal-violet",
+	"version": "${version}",
+	"name": "Eternal Violet",
+	"description": "A brand new mod with violet items",
+	"authors": [
+		"Zhiyu @ Ziling"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/eternal-violet/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.zhiyu.EternalViolet"
+		],
+		"fabric-datagen": [
+			"com.zhiyu.EternalVioletDataGenerator"
+		],
+		"client": [
+			"com.zhiyu.EternalVioletCustom"
+		]
+	},
+	"mixins": [
+		"eternal-violet.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
