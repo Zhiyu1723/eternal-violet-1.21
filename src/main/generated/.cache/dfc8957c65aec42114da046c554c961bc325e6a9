@@ -1,6 +1,16 @@
-// 1.21	2025-01-12T11:19:33.3845015	Eternal Violet/Model Definitions
-2050436f00668d6fbf105bf5d2b87a65f3bdb6a7 assets\eternal-violet\models\item\golden_knife.json
+// 1.21	2025-01-20T20:25:17.6386184	Eternal Violet/Model Definitions
+3e6da38b4ed5c6d8b6ad3814e266524fc381898b assets\eternal-violet\blockstates\grimstone.json
 b1eadd3c9df605eee2f1ae9cd1843d83befe8bdd assets\eternal-violet\models\item\iron_stick.json
-4197ba9b06f54d7d2f94111e51c81ee69139cdaf assets\eternal-violet\models\item\white_clay_ball.json
+7037c40e493185500231f44a07ac68d9a1986fb8 assets\eternal-violet\blockstates\porcelain_block.json
 a06267228f02985445c79fa1b65e57418a4d68b8 assets\eternal-violet\models\item\furry_cloth.json
+cb135f5d4d8c657c387de727b86884318e32308f assets\eternal-violet\models\block\grimstone.json
+4197ba9b06f54d7d2f94111e51c81ee69139cdaf assets\eternal-violet\models\item\white_clay_ball.json
+d8c9aa088ad17afe10816ead0e3f8322f939af87 assets\eternal-violet\models\block\cut_porcelain_block.json
+b9613d81440f9ad235305f4106741d2555f83d84 assets\eternal-violet\models\item\grimstone.json
+2050436f00668d6fbf105bf5d2b87a65f3bdb6a7 assets\eternal-violet\models\item\golden_knife.json
+42ac57bf250ba09b831436d1dac6dc20c513ccd7 assets\eternal-violet\models\item\porcelain_block.json
+42c3d0a0ae096787288939c19f04db4c24c6cea8 assets\eternal-violet\blockstates\cut_porcelain_block.json
+45c4d1b64972c3b9b29cdf0b5fe6785c0c324738 assets\eternal-violet\models\block\porcelain_block.json
+ac5de9d6f792c1d5c9b12292a8cba105201a6868 assets\eternal-violet\models\item\cut_porcelain_block.json
 08744cc4324aa0090ba97b0d9926c85870079d93 assets\eternal-violet\models\item\flint_knife.json
+87fad7cbfecd2551d7b50cd49d546636cfc0b015 assets\eternal-violet\models\item\obsidian_knife.json

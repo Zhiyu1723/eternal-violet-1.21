@@ -19,6 +19,7 @@ public class EternalViolet implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 		ModItems.init();
-		LOGGER.info("Hello Fabric world!");
+		ModBlocks.init();
+		ModItemGroups.init();
 	}
 }
