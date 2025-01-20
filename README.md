@@ -10,13 +10,20 @@ Still in early developing. (In fact I am learning to modify vanilla Minecraft wi
 
 # New Elements
 
-Add some new items.(Currently not in the creating mode itemgruops, use `/give` to get them)
+New Items
 > flint knife
 >
 > golden knife
 >
+> Obsidian knife
+> 
 > furry cloth
 >
 > iron stick
 >
 > white clay ball
+New Blocks
+>
+> Porcelain Block
+>
+> Grimstone
